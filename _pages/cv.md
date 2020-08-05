@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Msc in Psychology, Utrecht University, 2006
+* MA in American Studies, Utrecht University, 2009
+* rMA in Cultural Analysis, University of Amsterdam, 2010 
+* Ph.D in Cultural History, Utrecht University, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2020: Postdoc
+  * DHLab, KNAW Humanities Cluster
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017: Researcher in Residence
+  * National Library of the Netherlands
+
+* 2016: Invited Research Fellow
+  * Institute of Pure and Applied Mathematics, UCLA
+
+* 2015: Visiting Researcher
+  * British Library Digital Labs
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Text Mining
+* (Bayesian) Statistics
+* Computer Vision
+* Time Series Analysis
+* Python / R / Markdown / LaTeX
 
 Publications
 ======
@@ -54,6 +57,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
