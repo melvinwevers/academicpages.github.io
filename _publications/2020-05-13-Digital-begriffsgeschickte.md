@@ -6,11 +6,11 @@ excerpt: 'Recently, the use of word embedding models (WEM) has received ample at
 date: 2020-05-13
 venue: 'Historical Methods: A Journal of Quantitative and Interdisciplinary History '
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/01615440.2020.1760157?scroll=top&needAccess=true'
-citation: 'Melvin Wevers &amp; Marijn Koolen (2020) Digital begriffsgeschichte: Tracing semantic change using word embeddings, Historical Methods: A Journal of Quantitative and Interdisciplinary History, DOI: 10.1080/01615440.2020.1760157 '
+citation: 'Melvin Wevers &amp; Marijn Koolen (2020) Digital begriffsgeschichte: Tracing semantic change using word embeddings, Historical Methods: A Journal of Quantitative and Interdisciplinary History, DOI: 10.1080/01615440.2020.1760157'
 ---
 
 <a href='https://www.tandfonline.com/doi/full/10.1080/01615440.2020.1760157?scroll=top&needAccess=true'>Download paper here</a>
 
 Recently, the use of word embedding models (WEM) has received ample attention in the natural language processing community. These models can capture semantic information in large corpora of text by learning distributional properties of words, that is how often particular words appear in specific contexts. Scholars have pointed out the potential of WEMs for historical research. In particular, their ability to capture semantic change might assist historians studying conceptual change or specific discursive formations over time. Concurrently, others voiced their criticism and pointed out that WEMs require large amounts of training data, that they are challenging to evaluate, and they lack the specificity looked for by historians. The ability to examine semantic change resonates with the goals of historians such as Reinhart Koselleck, whose research focused on the formation of concepts and the transformation of semantic fields. However, word embeddings can only be used to study particular types of semantic change, and the model’s use is dependent on the size, quality, and bias in training data. In this article, we examine what is required of historical data to produce reliable WEMs, and we describe the types of questions that can be answered using WEMs.
 
-Recommended citation: Melvin Wevers & Marijn Koolen (2020) Digital begriffsgeschichte: Tracing semantic change using word embeddings, Historical Methods: A Journal of Quantitative and Interdisciplinary History, DOI: 10.1080/01615440.2020.1760157 
+Recommended citation: Melvin Wevers & Marijn Koolen (2020) Digital begriffsgeschichte: Tracing semantic change using word embeddings, Historical Methods: A Journal of Quantitative and Interdisciplinary History, DOI: 10.1080/01615440.2020.1760157
