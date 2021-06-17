@@ -6,7 +6,7 @@ excerpt: 'Industry and governments have deployed computer vision models to make 
 date: 2021-03-19
 venue: 'Visual Communication'
 paperurl: 'https://journals.sagepub.com/doi/10.1177/1470357221992097'
-citation: 'Smits, Thomas, and Melvin Wevers. “The Agency of Computer Vision Models as Optical Instruments.” <i>Visual Communication<\i>, (March 2021). https://doi.org/10.1177/1470357221992097'
+citation: 'Smits, Thomas, and Melvin Wevers. “The Agency of Computer Vision Models as Optical Instruments.” Visual Communication, (March 2021). https://doi.org/10.1177/1470357221992097'
 ---
 
 <a href='https://journals.sagepub.com/doi/10.1177/1470357221992097'>Download paper here</a>
